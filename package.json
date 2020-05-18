@@ -1,0 +1,22 @@
+{
+  "name": "keepcount",
+  "version": "1.0.0",
+  "description": "This Application keeps count of items in stock and sold ",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayncis/KeepCount.git"
+  },
+  "keywords": [
+    "keepcount"
+  ],
+  "author": "francis wayungi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wayncis/KeepCount/issues"
+  },
+  "homepage": "https://github.com/wayncis/KeepCount#readme"
+}
